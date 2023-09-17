@@ -1,0 +1,31 @@
+..\obj\point.o: ..\HARDWARE\point.c
+..\obj\point.o: D:\program films\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device/Include/stm32f10x.h
+..\obj\point.o: ..\CORE\core_cm3.h
+..\obj\point.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\point.o: D:\program films\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device/Include/system_stm32f10x.h
+..\obj\point.o: ..\USER\stm32f10x_conf.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\obj\point.o: ..\USER\stm32f10x.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_cec.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_crc.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_dac.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+..\obj\point.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\point.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
